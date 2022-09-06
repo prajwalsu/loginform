@@ -1,0 +1,22 @@
+.form {
+  border: 2px solid black;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 10%;
+  height: 20vh;
+  background-color: gray;
+}
+.inp1 {
+  display: block;
+  margin: 3% 0 0 10%;
+}
+.inp2 {
+  display: block;
+  margin: 3% 0 0 10%;
+}
+.lb1 {
+  margin: 3% 0 0 10%;
+}
+.lb2 {
+  margin: 3% 0 0 10%;
+}
